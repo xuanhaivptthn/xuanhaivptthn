@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xuanhaivptthn/xuanhaivptthn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hi
+- struggling with university and life
+- mentally unstable
+- still trying to figure out what to do
+- learning c++ at uni, python on my own
